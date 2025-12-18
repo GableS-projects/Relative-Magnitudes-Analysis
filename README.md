@@ -9,5 +9,5 @@ Gable, S.L., and Y. Huang (2025) Quantifying Magnitude Uncertainty of the 2019 R
 Study of the Relative Magnitude Method. Bull. Seismol. Soc. Am., 115 (3)
 
 <h5 align="left">User Information:</h3>
-A user manual and further documented codes are coming very soon! Please contact gablesyd@umich.edu if you would like to use the Relative Magnitudes Analysis codes. 
+A user manual and further documented codes are coming very soon! Please note that these codes are continuously being updated. If you plan to use the Relative Magnitude Analysis codes for your own work, please contact gablesyd@umich.edu for the most up-to-date information 
 </p>
