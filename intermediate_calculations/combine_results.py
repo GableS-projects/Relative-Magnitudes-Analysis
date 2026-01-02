@@ -11,7 +11,7 @@ import glob
 # In[2]:
 
 
-input_list = glob.glob('/nfs/turbo/lsa-yiheh/yiheh-mistorage/gablesyd/PermianBasinData/MB04_results/*')
+input_list = glob.glob()
 cc_thresh = 
 output_file = 
 
